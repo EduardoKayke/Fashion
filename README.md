@@ -17,7 +17,7 @@ function Fashion(Project) {
 
 <div align="center">
 
-<img src="Projetos/img/readme1.png" alt="Fashio" width="600"/>
+<img src="Projetos/img/readme1.jpg" alt="Fashio" width="600"/>
 
 </div>
 
