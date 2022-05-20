@@ -1,7 +1,7 @@
 # Fashion
 
 ## Sobre o projeto.
-Site sobre roupas masculinas e femininas. Estilista da moda. Para o profissional angariar clientes. foto de modelos, informações textuais e formas de contato.
+Site sobre roupas masculinas e femininas. Estilista da moda. Para o profissional angariar clientes. Com foto de modelos, informações textuais e formas de contato.
 
 Data de conclusão: 19/05/2022
 ## Ferramentas e tecnologias usadas nesse projeto.
